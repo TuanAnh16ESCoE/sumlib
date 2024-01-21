@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='suumfunction',
     version='0.1',
-    url='',
+    url='https://github.com/TuanAnh16ESCoE/sumlib.git',
     license='',
     author='Andrew',
     author_email='',
